@@ -1,6 +1,6 @@
 import math
 import datetime
-from typing import Dict, Any, List
+from typing import Dict, Any, List, Optional
 
 class IntentSignalPropensityScorer:
     """
