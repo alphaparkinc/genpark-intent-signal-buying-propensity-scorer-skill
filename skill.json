@@ -1,0 +1,12 @@
+{
+  "name": "genpark-intent-signal-buying-propensity-scorer-skill",
+  "version": "1.0.0",
+  "description": "Time-decayed multi-signal buying intent scorer evaluating hiring velocity, funding injections, and technographic adoption.",
+  "category": "Sales Intelligence & Lead Enrichment",
+  "runtime": "python3",
+  "entrypoint": "client.py",
+  "author": "GenPark AI",
+  "repository": "https://github.com/alphaparkinc/genpark-intent-signal-buying-propensity-scorer-skill",
+  "verified": true,
+  "stars": 8
+}
